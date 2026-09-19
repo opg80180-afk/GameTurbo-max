@@ -1,0 +1,6 @@
+{
+  "name": "Game Turbo",
+  "description": "High-performance Game Turbo space featuring real-time CPU & FPS monitoring, network accelerator, one-tap turbo boost, and customized game profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
